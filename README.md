@@ -9,5 +9,5 @@ Um aplicativo Flutter que busca apresentar o uso da API WorkManager, do Android,
 2. Execute `flutter pub get`
 3. Execute `flutter run`
 
-Ficou com alguma dúvida? Escrevi um artigo no Medium falando um pouco sobre esse projeto, confere lá: [Flutter e Background Services]()
+Ficou com alguma dúvida? Escrevi um artigo no Medium falando um pouco sobre esse projeto, confere lá: [Flutter e Background Services](https://medium.com/@diegokalschne/42bc09ec545d)
 
